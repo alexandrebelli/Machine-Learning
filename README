@@ -9,6 +9,3 @@ I selected the monthly rain gauge accumulation data fro Seattle.
 I try to answer the following question:
 
 	How can we predict the rain accumulation for a particular gauge in Seattle if we just have a fraction of the data for this specific gauge?	
-
-The code is presented in a Jupiter Notebook.
-
