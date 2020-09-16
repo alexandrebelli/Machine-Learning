@@ -1,7 +1,7 @@
 Creation date: August 18th, 2020.
 
 
-I built a model that aims to predict the type of offense in NYC. I disposed of features, such as the time and location of the offense.
+I built a model that aims to predict the type of offense in NYC recorded by the police. I disposed of features, such as the time and location of the offense.
 I used two data sets. One for training my model, and one for predicting the offense.
 
 
