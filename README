@@ -1,11 +1,7 @@
 Creation date: August 18th, 2020.
 
-It is an example of Machine learning.
 
-I selected the monthly rain gauge accumulation data for Seattle.
-	
-	https://catalog.data.gov/dataset/observed-monthly-rain-gauge-accumulations
+I built a model that aims to predict the offense in NYC. I disposed of features, such as the time and location of the offense.
+I used two data sets. One for training my model, and one for predicting the offense.
 
-I try to answer the following question:
 
-	How can we predict the rain accumulation for a particular gauge in Seattle if we just have a fraction of the data for this specific gauge?	
