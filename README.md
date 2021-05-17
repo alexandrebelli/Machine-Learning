@@ -1,3 +1,3 @@
-# Small-Projects
+# Machine Learning
 
-In this directory, you will find small projects in Machine Learning, or just data analysis with Python.
+In this directory, you will find small projects using Machine Learning algorithms in Python.
